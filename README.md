@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/Suryaprakashrathinam/Excel-Sales-and-Finance-analysis/blob/main/Customer%20Net%20Sales%20Performance%20in%20India.pdf)_ 
+   **1.** Develop a detailed _[Customer Net Sales Performance Report](https://github.com/Suryaprakashrathinam/Excel-Sales-and-Finance-analysis/blob/main/Customer%20Net%20Sales%20Performance%20in%20India.pdf)_ to evaluate customer performance across regions.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Suryaprakashrathinam/Excel-Sales-and-Finance-analysis/blob/main/Market%20performance%20vs%20target.pdf)_
+   **2.** Conduct a comprehensive _[Market Performance vs Sales Target Analysis](https://github.com/Suryaprakashrathinam/Excel-Sales-and-Finance-analysis/blob/main/Market%20performance%20vs%20target.pdf)_ to assess how each market is performing against set goals.
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
